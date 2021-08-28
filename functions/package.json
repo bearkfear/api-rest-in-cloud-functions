@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "firebase-admin": "^8.13.0",
+    "firebase-admin": "9.11.1",
     "firebase-functions": "^3.7.0"
   },
   "devDependencies": {
